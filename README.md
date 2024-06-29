@@ -1,5 +1,6 @@
 # ERC 20 TOKEN
 This Smart Contract written in Solidity Language defines the creation of an ERC20 TOKEN. This contract allows us to carry out different functions on these Tokens.
+Video Explanation  https://www.loom.com/share/4145a2ddff3f4d1e9be9a262a64d4bac
 ## Description 
 This smart contract inherits some readymade smart contracts from OpenZeppelin which are ERC20, ERC20Burnable, Ownable.
 Other than these it includes some built in functions for freezing account ,unfreezing account, minting new tokens, burning tokens, and transferring tokens.
